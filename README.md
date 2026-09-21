@@ -10,9 +10,7 @@ and formally trained painter from Kolkata, India.
 - `script.js` — interactions (typing hero, scroll-reveal, filters, lightbox, count-ups)
 - `assets/` — optimized images (WebP) + résumé PDF
 
-## Deploy on GitHub Pages
-1. Create a new public repository named exactly: **madhuhritasaha.github.io**
-2. Upload the contents of this folder (Add file → Upload files, drag everything in) and commit.
-3. Wait ~1 minute — the site goes live at **https://madhuhritasaha.github.io**
+## Deployed on GitHub Pages
+The site goes live at **https://madhuhritasaha.github.io**
 
 (That's it — no Jekyll, no build step. `.nojekyll` is included so GitHub serves the files as-is.)
